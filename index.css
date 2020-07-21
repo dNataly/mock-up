@@ -1,0 +1,23 @@
+h1 {
+ text-align: center;
+ padding-right: 25%;
+}
+
+body {
+padding-left: 22%;
+}
+
+div.img {
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 13%;
+    margin: 5%;  
+}
+
+div.img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+}
